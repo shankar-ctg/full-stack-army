@@ -1,14 +1,15 @@
 {
-  "name": "class-16",
+  "name": "y",
   "version": "1.0.0",
   "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "class-16.js",
   "scripts": {
-    "start": "node class-16.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "dependencies": {
+    "morgan": "^1.10.1"
+  }
 }
